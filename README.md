@@ -73,14 +73,21 @@ npm run dev
 
 ## 📸 Screenshots
 
-| Home Page | Pricing Page |
-|-----------|--------------|
-| ![Home](images/home.png) | ![Pricing](images/pricing.png) |
+## 📸 Screenshots
 
-| Generation Example 1 | Generation Example 2 |
-|----------------------|----------------------|
-| ![Generation 1](images/generation-1.png) | ![Generation 2](images/generation-2.png) |
+### 🏠 Home Page
+![Home](images/home.png)
 
-**Final Generated Image:**
+### 💳 Pricing Page
+![Pricing](images/pricing.png)
+
+### 🎨 Generation Example 1
+![Generation 1](images/generation-1.png)
+
+### 🎨 Generation Example 2
+![Generation 2](images/generation-2.png)
+
+### 🖼 Final Generated Image
 ![Final Image](images/final-image.png)
+
 
